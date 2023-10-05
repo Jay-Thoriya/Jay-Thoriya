@@ -71,10 +71,14 @@ Hi, I'm Jay Thoriya!</h2>
 🌟 Natural Language Process
 
 🌟 Working on Cloud Deployment of ML Applications to enable them scale and be at the fingertips of customers
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-thoriya&show_icons=true&locale=en&layout=compact" alt="jay-thoriya" /></p>
 
-<br>
-<br>
+### Languages 
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-thoriya&theme=radical&layout=compact) 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansarimajid"></img>
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+
+
 <p align="center">
 	<a href="https://jay-thoriya.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/jay-thoriya" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
