@@ -75,7 +75,6 @@ Hi, I'm Jay Thoriya!</h2>
 ### Languages 
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-thoriya&theme=radical&layout=compact) 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansarimajid"></img>
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 
