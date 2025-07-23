@@ -1,7 +1,7 @@
 <h2 align="center">
 Hi, I'm Jay Thoriya!</h2>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FA0000&center=true&vCenter=true&width=435&lines=Always+learning+new+things+;Computer+Science+Student;Full+Stack+Web+Developer;AI+%7C+ML+Enthusiastic" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999&color=F70000&background=B8E8FF00&center=true&vCenter=true&width=700&lines=%F0%9F%92%A1+AI+%26+ML+Enthusiast+%7C+Hackathon+Runner-Up+%40+Vibeathon;%F0%9F%A4%96+Building+Intelligent+Agents+%7C+RAG+%7C+LLMs+%7C+GenAI;%F0%9F%93%8A+Data+%2B+Code+%3D+Insight+%7C+Python+%7C+NLP+%7C+MLOps;%F0%9F%9A%80+Let's+build+something+impactful+%E2%80%94+Together!" alt="Typing SVG" /></a></p>
 
 
 ## 🛠 Primary Tech Stack 
