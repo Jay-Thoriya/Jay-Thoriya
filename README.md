@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Jay Thoriya 👋</h1>
-<h3 align="center">Lead AI/ML Engineer | Architecting Enterprise AI & Multi-Agent Systems</h3>
+<h3 align="center">AI Engineer | Architecting Enterprise AI & Multi-Agent Systems</h3>
 
 <p align="center">
   <a href="https://jay-thoriya.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999&color=F70000&background=B8E8FF00&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Lead+AI%2FML+Engineer;%F0%9F%A4%96+Architecting+Enterprise+AI+Ecosystems;%F0%9F%92%A1+Building+LLMs%2C+RAG+%26+Multi-Agent+Platforms;%E2%98%81%EF%B8%8F+Scaling+AWS+%26+Docker+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999&color=F70000&background=B8E8FF00&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+AI+Engineer;%F0%9F%A4%96+Architecting+Enterprise+AI+Ecosystems;%F0%9F%92%A1+Building+LLMs%2C+RAG+%26+Multi-Agent+Platforms;%E2%98%81%EF%B8%8F+Scaling+AWS+%26+Docker+Infrastructure" alt="Typing SVG" />
   </a>
 </p>
 
 ## 🚀 About Me
 
-I am a **Lead AI/ML Engineer** specializing in translating complex business requirements into automated, scalable, and intelligent architectures. From orchestrating multi-agent procurement platforms (NL2SQL) to building multi-modal generative AI e-commerce workflows, I build end-to-end AI products from scratch. 
+I am a **AI Engineer** specializing in translating complex business requirements into automated, scalable, and intelligent architectures. From orchestrating multi-agent procurement platforms (NL2SQL) to building multi-modal generative AI e-commerce workflows, I build end-to-end AI products from scratch. 
 
 - 🔭 **Currently building:** Enterprise-scale Multi-Agent NLP ecosystems & intelligent document processing (OCR) pipelines.
 - 🧠 **Specializing in:** Large Language Models (LLMs), RAG pipelines, Vector Databases, and Generative AI.
